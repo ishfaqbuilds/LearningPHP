@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# PHP/Laravel
+vendor/
+
+# Node (if you ever use JS tooling)
+node_modules/
